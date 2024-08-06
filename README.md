@@ -55,7 +55,7 @@ I have also completed the basic computer science during the first year of my app
       <p><em>Developed OneGov GEVER frontend with VueJS and later worked on GLAM area projects with VueJS and Django (full stack).</em></p>
       <p><strong>(Apprentice Application developer computer scientist VET)</strong></p>
     </td>
-  </tr><
+  </tr>
   <tr>
     <td>
       <h3>Berufsbildungscenter AG</h3>
