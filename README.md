@@ -6,7 +6,7 @@ I have also completed the basic computer science during the first year of my app
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Switzerland.svg" alt="Schweizer Wappen" width="48" height="48">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wappen_Bern_matt.svg" alt="Bern" width="24" height="24">
+  <img src="https://www.tell.ch/schweiz/kanton/bern.png" alt="Bern" width="20" height="24">
 </p>
 
 ## Knowledge
@@ -46,7 +46,12 @@ I have also completed the basic computer science during the first year of my app
 <table>
   <tr>
     <td>
-      <h3>histify AG</h3>
+      <h3 style="display: flex; align-items: center;">
+        <span style="display: inline-block; height: 32px;">
+          <img src="https://images.squarespace-cdn.com/content/v1/662c0f3acb35632648b0f34b/bcf147b9-0f42-4a17-91bb-fa0561e13ebd/logo_black_transparent.png" alt="histify logo" width="32" height="32" style="vertical-align: middle;">
+        </span>
+        <span style="margin-left: 16px;">histify AG</span>
+      </h3>
       <p>2024 - Present</p>
       <p><em>Currently working on various software (agora & oikos) using Django and Vue.js (full stack).</em></p>
       <p><strong>(Apprentice Application developer computer scientist VET)</strong></p>
@@ -54,7 +59,12 @@ I have also completed the basic computer science during the first year of my app
   </tr>
   <tr>
     <td>
-      <h3>Fabasoft 4teamwork AG</h3>
+      <h3 style="display: flex; align-items: center;">
+        <span style="display: inline-block; height: 32px;">
+          <img src="https://avatars.githubusercontent.com/u/681821?s=200&v=4" alt="4teamwork logo" width="32" height="32" style="vertical-align: middle;">
+        </span>
+        <span style="margin-left: 16px;">Fabasoft 4teamwork AG</span>
+      </h3>
       <p>2022 - 2024</p>
       <p><em>Developed OneGov GEVER frontend with VueJS and later worked on GLAM area projects with VueJS and Django (full stack).</em></p>
       <p><strong>(Apprentice Application developer computer scientist VET)</strong></p>
@@ -62,7 +72,12 @@ I have also completed the basic computer science during the first year of my app
   </tr>
   <tr>
     <td>
-      <h3>Berufsbildungscenter AG</h3>
+      <h3 style="display: flex; align-items: center;">
+        <span style="display: inline-block; height: 32px;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4YXq141w9rbfacpjMk8m7XUeX041R6BxIA&s" alt="Berufsbildungscenter logo" width="32" height="32" style="vertical-align: middle;">
+        </span>
+        <span style="margin-left: 16px;">Berufsbildungscenter AG</span>
+      </h3>
       <p>2021 - 2022</p>
       <p><em>Completed basic apprenticeship year, including all inter-company courses (üK) and individual projects for basic IT training.</em></p>
       <p><strong>(Apprentice Application developer computer scientist VET)</strong></p>
