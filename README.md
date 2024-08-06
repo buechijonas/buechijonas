@@ -38,6 +38,10 @@ I have also completed the basic computer science during the first year of my app
 ### Operation System I Operate
 ![macOS](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 
+## Certificates
+- **Basic Apprenticeship in Computer Science** - ICT Berufsbildungscenter AG - March 2022 - [Certificate](https://drive.google.com/file/d/1_BcWBG6V9JRyh1QcSlP2OkZ3zrgryi7-/view?usp=drive_link)
+- **Competency Certificate for Intercompany Courses** - ICT-Berufsbildung Schweiz - [Certificate](https://drive.google.com/drive/folders/1LsrCPdEHPQeuqpOOW38WChBwZng7bTHq?usp=sharing)
+
 ## Timeline
 <table>
   <tr>
