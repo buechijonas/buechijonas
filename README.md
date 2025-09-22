@@ -1,7 +1,7 @@
 <h1 align="center">Jonas S. Büchi</h1>
 
 ## About
-I am currently doing an "application developer computer scientist VET" apprenticeship at [@histifyAG](https://github.com/histify).
+I work as a Fullstack Software Engineer and have completed my apprenticeship as an "Application Developer Computer Scientist VET" at [@histifyAG](https://github.com/histify).
 I have also completed the basic computer science during the first year of my apprenticeship at [@BbcAG](https://github.com/ICT-BBc).
 
 <p align="center">
