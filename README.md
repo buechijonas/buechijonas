@@ -1,7 +1,10 @@
 <h1 align="center">Jonas S. Büchi</h1>
 
 ## About
-I work as a Fullstack Software Engineer and have completed my apprenticeship as an "Application Developer Computer Scientist VET" at [@histifyAG](https://github.com/histify).
+
+I work as a Fullstack Software Engineer at [@histifyAG](https://github.com/histify).
+I have completed the "apprenticeship as an application developer computer scientist VET" in 2025.
+
 I have also completed the basic computer science during the first year of my apprenticeship at [@BbcAG](https://github.com/ICT-BBc).
 
 <p align="center">
@@ -10,20 +13,25 @@ I have also completed the basic computer science during the first year of my app
 </p>
 
 ## Knowledge
+
 ### Languages I Learned
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks and Libraries I Work With
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### DevOps and Containerization Tools  I'm Familiar With
+### DevOps and Containerization Tools I'm Familiar With
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Technologies I Use
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge)
@@ -33,16 +41,21 @@ I have also completed the basic computer science during the first year of my app
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 ### Programs I Utilize
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Operation System I Operate
+
 ![macOS](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 
 ## Certificates
-- **Basic Apprenticeship in Computer Science** - ICT Berufsbildungscenter AG - March 2022 - [Certificate](https://drive.google.com/file/d/1_BcWBG6V9JRyh1QcSlP2OkZ3zrgryi7-/view?usp=drive_link)
-- **Competency Certificate for Intercompany Courses** - ICT-Berufsbildung Schweiz - [Certificate](https://drive.google.com/drive/folders/1LsrCPdEHPQeuqpOOW38WChBwZng7bTHq?usp=sharing)
+
+- **Federal VET Diploma** - histify AG - July 2025 - [Diploma](https://drive.proton.me/urls/08XA13R08M#w8uFE9LgGKwZ)
+- **Basic Apprenticeship in Computer Science** - ICT Berufsbildungscenter AG - March 2022 - [Certificate](https://drive.proton.me/urls/9SYSZK3H8C#fhLY7FBdBKoj)
+- **Competency Certificate for Intercompany Courses** - ICT-Berufsbildung Schweiz - [Certificate](https://drive.proton.me/urls/N0DF9798RC#DMMps3CMq7e2)
 
 ## Timeline
+
 <table>
   <tr>
     <td>
@@ -52,8 +65,22 @@ I have also completed the basic computer science during the first year of my app
         </span>
         <span style="margin-left: 16px;">histify AG</span>
       </h3>
-      <p>2024 - Present</p>
-      <p><em>Currently working on various software (agora & oikos) using Django and Vue.js (full stack).</em></p>
+      <p>2025 - Present</p>
+      <p><em>Currently working on various software (agora, oikos & charon) using Django and Vue.js (full stack).</em></p>
+      <p><strong>(Jr. Software Engineer)</strong></p>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td>
+      <h3 style="display: flex; align-items: center;">
+        <span style="display: inline-block; height: 24px;">
+          <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF1euzGI-sWDg/company-logo_100_100/company-logo_100_100/0/1725960440526/histify_ag_logo?e=2147483647&v=beta&t=bjwgqRKdRcJ4NZxTnHrL0ic2CM2zqu289GW7peIu69o" alt="histify logo" width="24" height="24" style="vertical-align: middle;">
+        </span>
+        <span style="margin-left: 16px;">histify AG</span>
+      </h3>
+      <p>2024 - 2025</p>
+      <p><em>On various software (agora & oikos) using Django and Vue.js (full stack).</em></p>
       <p><strong>(Apprentice Application developer computer scientist VET)</strong></p>
     </td>
   </tr>
@@ -102,14 +129,17 @@ I have also completed the basic computer science during the first year of my app
 ## Projects
 
 ### Kiidle:
+
 - [OfficeSync](https://github.com/kiidle/officesync)
 - [SyncCentral Network](https://github.com/kiidle/synccentral)
 - [TradeSync](https://github.com/kiidle/tradesync)
 
 ### Vocational school:
+
 - [Collab-Lodist (Backend)](https://github.com/Gibb-Panda/collab-lodist-backend)
 
 ## Media
+
 [![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buechi.jonas@kiidle.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-s-b%C3%BCchi-8a3497219)
 [![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=fff&style=for-the-badge)](https://www.xing.com/profile/JonasSimon_Buechi)
