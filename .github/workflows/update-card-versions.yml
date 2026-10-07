@@ -1,0 +1,37 @@
+name: Update card versions
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write latest release tags into cards
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          update() {
+            local card="$1" repo="$2" tag
+            tag=$(gh api "repos/$repo/releases/latest" --jq .tag_name)
+            sed -i -E "s#(<tspan class=\"version\"[^>]*>)[^<]*(</tspan>)#\1${tag}\2#" \
+              "assets/card-$card-light.svg" "assets/card-$card-dark.svg"
+          }
+          update govex NEOTYRA/govex
+          update wintersehn buechijonas/wintersehn
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update card versions"
+          git push
