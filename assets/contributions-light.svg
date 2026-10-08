@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="239" viewBox="0 0 820 239" role="img" aria-label="850 GitHub contributions in the last year" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="239" viewBox="0 0 820 239" role="img" aria-label="867 GitHub contributions in the last year" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <rect x="0.5" y="0.5" width="819" height="238" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
   <text x="24" y="36" font-size="11" font-weight="600" letter-spacing="0.8" fill="#6b7280">GITHUB CONTRIBUTIONS</text>
-  <text x="24" y="62" font-size="19" font-weight="600" fill="#111827">850<tspan dx="6" font-size="13.5" font-weight="400" fill="#6b7280">in the last year</tspan></text>
-  <text x="796" y="62" text-anchor="end" font-size="12" fill="#6b7280">Current streak 4 days<tspan dx='10' fill='#e5e7eb'>|</tspan><tspan dx='10'>Longest streak 15 days</tspan></text>
+  <text x="24" y="62" font-size="19" font-weight="600" fill="#111827">867<tspan dx="6" font-size="13.5" font-weight="400" fill="#6b7280">in the last year</tspan></text>
+  <text x="796" y="62" text-anchor="end" font-size="12" fill="#6b7280">Current streak 5 days<tspan dx='10' fill='#e5e7eb'>|</tspan><tspan dx='10'>Longest streak 15 days</tspan></text>
   <text x="54" y="84" font-size="10.5" fill="#6b7280">Oct</text>
   <rect x="54" y="92" width="11" height="11" rx="2.5" fill="#f3f4f6"><title>0 contributions on 2025-10-05</title></rect>
   <rect x="54" y="106" width="11" height="11" rx="2.5" fill="#fecaca"><title>2 contributions on 2025-10-06</title></rect>
@@ -381,8 +381,9 @@
   <rect x="768" y="176" width="11" height="11" rx="2.5" fill="#f3f4f6"><title>0 contributions on 2026-10-03</title></rect>
   <rect x="782" y="92" width="11" height="11" rx="2.5" fill="#fecaca"><title>1 contribution on 2026-10-04</title></rect>
   <rect x="782" y="106" width="11" height="11" rx="2.5" fill="#f87171"><title>22 contributions on 2026-10-05</title></rect>
-  <rect x="782" y="120" width="11" height="11" rx="2.5" fill="#fecaca"><title>6 contributions on 2026-10-06</title></rect>
-  <rect x="782" y="134" width="11" height="11" rx="2.5" fill="#f87171"><title>14 contributions on 2026-10-07</title></rect>
+  <rect x="782" y="120" width="11" height="11" rx="2.5" fill="#fecaca"><title>4 contributions on 2026-10-06</title></rect>
+  <rect x="782" y="134" width="11" height="11" rx="2.5" fill="#dc2626"><title>26 contributions on 2026-10-07</title></rect>
+  <rect x="782" y="148" width="11" height="11" rx="2.5" fill="#fecaca"><title>7 contributions on 2026-10-08</title></rect>
   <text x="24" y="115" font-size="10.5" fill="#6b7280">Mon</text>
   <text x="24" y="143" font-size="10.5" fill="#6b7280">Wed</text>
   <text x="24" y="171" font-size="10.5" fill="#6b7280">Fri</text>
