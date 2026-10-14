@@ -9,8 +9,8 @@
   <rect x="73.4" y="139.1" width="18" height="76.9" rx="3" fill="#fca5a5"><title>182 contributions on Tuesdays</title></rect>
   <text x="82.4" y="134.1" text-anchor="middle" font-size="10" fill="#6b7280">182</text>
   <text x="82.4" y="232" text-anchor="middle" font-size="10.5" fill="#6b7280">Tue</text>
-  <rect x="101.7" y="132.7" width="18" height="83.3" rx="3" fill="#fca5a5"><title>197 contributions on Wednesdays</title></rect>
-  <text x="110.7" y="127.7" text-anchor="middle" font-size="10" fill="#6b7280">197</text>
+  <rect x="101.7" y="129.8" width="18" height="86.2" rx="3" fill="#fca5a5"><title>204 contributions on Wednesdays</title></rect>
+  <text x="110.7" y="124.8" text-anchor="middle" font-size="10" fill="#6b7280">204</text>
   <text x="110.7" y="232" text-anchor="middle" font-size="10.5" fill="#6b7280">Wed</text>
   <rect x="130.0" y="189.0" width="18" height="27.0" rx="3" fill="#fca5a5"><title>64 contributions on Thursdays</title></rect>
   <text x="139.0" y="184.0" text-anchor="middle" font-size="10" fill="#6b7280">64</text>
@@ -87,9 +87,9 @@
   <circle cx="441.7" cy="138" r="1.5" fill="#e5e7eb"/>
   <circle cx="461.0" cy="138" r="7.3" fill="#dc2626" fill-opacity="0.85"><title>10 commits on Wednesdays, 07:00 – 08:00</title></circle>
   <circle cx="480.3" cy="138" r="1.5" fill="#e5e7eb"/>
-  <circle cx="499.7" cy="138" r="1.5" fill="#e5e7eb"/>
+  <circle cx="499.7" cy="138" r="4.7" fill="#dc2626" fill-opacity="0.45"><title>2 commits on Wednesdays, 09:00 – 10:00</title></circle>
   <circle cx="519.0" cy="138" r="4.7" fill="#dc2626" fill-opacity="0.45"><title>2 commits on Wednesdays, 10:00 – 11:00</title></circle>
-  <circle cx="538.3" cy="138" r="1.5" fill="#e5e7eb"/>
+  <circle cx="538.3" cy="138" r="4.7" fill="#dc2626" fill-opacity="0.45"><title>2 commits on Wednesdays, 11:00 – 12:00</title></circle>
   <circle cx="557.7" cy="138" r="1.5" fill="#e5e7eb"/>
   <circle cx="577.0" cy="138" r="1.5" fill="#e5e7eb"/>
   <circle cx="596.3" cy="138" r="1.5" fill="#e5e7eb"/>
