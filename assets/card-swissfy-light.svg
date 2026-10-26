@@ -5,5 +5,5 @@
   <path d="M782 38 L794 26 M784 26 H794 V36" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="24" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#4b5563">Swiss social network.</text>
   <line x1="24" y1="112" x2="796" y2="112" stroke="#e5e7eb"/>
-  <text x="24" y="133" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#dc2626">swissfy.ch<tspan dx="12" font-weight="400" fill="#e5e7eb">|</tspan><tspan class="version" dx="12" font-weight="400" fill="#6b7280">v0.13.0</tspan></text>
+  <text x="24" y="133" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#dc2626">swissfy.ch<tspan dx="12" font-weight="400" fill="#e5e7eb">|</tspan><tspan class="version" dx="12" font-weight="400" fill="#6b7280">v0.14.0</tspan></text>
 </svg>
