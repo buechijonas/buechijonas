@@ -21,8 +21,8 @@
   <rect x="186.6" y="190.8" width="18" height="25.2" rx="3" fill="#7f1d1d"><title>60 contributions on Saturdays</title></rect>
   <text x="195.6" y="185.8" text-anchor="middle" font-size="10" fill="#8b949e">60</text>
   <text x="195.6" y="232" text-anchor="middle" font-size="10.5" fill="#8b949e">Sat</text>
-  <rect x="214.9" y="159.0" width="18" height="57.0" rx="3" fill="#7f1d1d"><title>136 contributions on Sundays</title></rect>
-  <text x="223.9" y="154.0" text-anchor="middle" font-size="10" fill="#8b949e">136</text>
+  <rect x="214.9" y="156.9" width="18" height="59.1" rx="3" fill="#7f1d1d"><title>141 contributions on Sundays</title></rect>
+  <text x="223.9" y="151.9" text-anchor="middle" font-size="10" fill="#8b949e">141</text>
   <text x="223.9" y="232" text-anchor="middle" font-size="10.5" fill="#8b949e">Sun</text>
   <rect x="270.5" y="24.5" width="525" height="221" rx="10" fill="none" stroke="#30363d"/>
   <text x="286" y="52" font-size="11" font-weight="600" letter-spacing="0.8" fill="#8b949e">TIME OF DAY</text>
@@ -199,8 +199,8 @@
   <circle cx="673.7" cy="210" r="4.0" fill="#ef4444" fill-opacity="0.40"><title>1 commit on Sundays, 18:00 – 19:00</title></circle>
   <circle cx="693.0" cy="210" r="7.8" fill="#ef4444" fill-opacity="0.95"><title>12 commits on Sundays, 19:00 – 20:00</title></circle>
   <circle cx="712.3" cy="210" r="4.0" fill="#ef4444" fill-opacity="0.40"><title>1 commit on Sundays, 20:00 – 21:00</title></circle>
-  <circle cx="731.7" cy="210" r="1.5" fill="#30363d"/>
-  <circle cx="751.0" cy="210" r="4.0" fill="#ef4444" fill-opacity="0.40"><title>1 commit on Sundays, 22:00 – 23:00</title></circle>
+  <circle cx="731.7" cy="210" r="4.0" fill="#ef4444" fill-opacity="0.40"><title>1 commit on Sundays, 21:00 – 22:00</title></circle>
+  <circle cx="751.0" cy="210" r="5.6" fill="#ef4444" fill-opacity="0.55"><title>4 commits on Sundays, 22:00 – 23:00</title></circle>
   <circle cx="770.3" cy="210" r="1.5" fill="#30363d"/>
   <text x="325.7" y="234" text-anchor="middle" font-size="10.5" fill="#8b949e">00</text>
   <text x="383.7" y="234" text-anchor="middle" font-size="10.5" fill="#8b949e">03</text>
