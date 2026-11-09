@@ -3,8 +3,8 @@
   <rect x="24.5" y="24.5" width="229" height="221" rx="10" fill="none" stroke="#e5e7eb"/>
   <text x="40" y="52" font-size="11" font-weight="600" letter-spacing="0.8" fill="#6b7280">WEEKDAYS</text>
   <text x="40" y="72" font-size="12.5" fill="#6b7280">Most active on <tspan fill="#111827" font-weight="600">Wednesday</tspan></text>
-  <rect x="45.1" y="110.9" width="18" height="105.1" rx="3" fill="#fca5a5"><title>288 contributions on Mondays</title></rect>
-  <text x="54.1" y="105.9" text-anchor="middle" font-size="10" fill="#6b7280">288</text>
+  <rect x="45.1" y="108.0" width="18" height="108.0" rx="3" fill="#fca5a5"><title>296 contributions on Mondays</title></rect>
+  <text x="54.1" y="103.0" text-anchor="middle" font-size="10" fill="#6b7280">296</text>
   <text x="54.1" y="232" text-anchor="middle" font-size="10.5" fill="#6b7280">Mon</text>
   <rect x="73.4" y="141.2" width="18" height="74.8" rx="3" fill="#fca5a5"><title>205 contributions on Tuesdays</title></rect>
   <text x="82.4" y="136.2" text-anchor="middle" font-size="10" fill="#6b7280">205</text>
@@ -31,8 +31,8 @@
   <circle cx="325.7" cy="102" r="6.2" fill="#dc2626" fill-opacity="0.65"><title>10 commits on Mondays, 00:00 – 01:00</title></circle>
   <circle cx="345.0" cy="102" r="4.5" fill="#dc2626" fill-opacity="0.44"><title>3 commits on Mondays, 01:00 – 02:00</title></circle>
   <circle cx="364.3" cy="102" r="1.5" fill="#e5e7eb"/>
-  <circle cx="383.7" cy="102" r="5.6" fill="#dc2626" fill-opacity="0.56"><title>7 commits on Mondays, 03:00 – 04:00</title></circle>
-  <circle cx="403.0" cy="102" r="5.1" fill="#dc2626" fill-opacity="0.50"><title>5 commits on Mondays, 04:00 – 05:00</title></circle>
+  <circle cx="383.7" cy="102" r="6.0" fill="#dc2626" fill-opacity="0.62"><title>9 commits on Mondays, 03:00 – 04:00</title></circle>
+  <circle cx="403.0" cy="102" r="6.0" fill="#dc2626" fill-opacity="0.62"><title>9 commits on Mondays, 04:00 – 05:00</title></circle>
   <circle cx="422.3" cy="102" r="4.5" fill="#dc2626" fill-opacity="0.44"><title>3 commits on Mondays, 05:00 – 06:00</title></circle>
   <circle cx="441.7" cy="102" r="1.5" fill="#e5e7eb"/>
   <circle cx="461.0" cy="102" r="1.5" fill="#e5e7eb"/>
